@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MangasaryanTigran
 - 👀 I’m interested in  web programming
-- 🌱 I’m currently learning html, css, JS, 
+- 🌱 I’m currently learning HMTL, CSS, JS, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  email
 
