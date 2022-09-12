@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MangasaryanTigran
-- 👀 I’m interested in  web programming
+- 👀 I’m frontend developer
 - 🌱 I’m currently learning HMTL, CSS, JS, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  email
